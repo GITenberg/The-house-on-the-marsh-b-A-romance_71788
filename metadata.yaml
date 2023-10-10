@@ -1,0 +1,33 @@
+_repo: The-house-on-the-marsh-b-A-romance_71788
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warden, Florence
+    alias: James, Florence Alice Price
+    birthdate: 1857
+    deathdate: 1929
+    gutenberg_agent_id: '6480'
+    url: http://www.gutenberg.org/2009/agents/6480
+    wikipedia: https://en.wikipedia.org/wiki/Florence_Warden
+description: ''
+gutenberg_issued: '2023-10-03'
+identifiers:
+  gutenberg: '71788'
+language: en
+pgterms:marc904: https://archive.org/details/houseonmarsharo00wardgoog
+pgterms:marc905: 20230928111211warden
+pgterms:marc906: '1884'
+pgterms:marc907: US
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aNew York :$bD. Appleton and Company, $c1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Governesses -- Fiction'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Norfolk (England) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The house on the marsh : $b A romance'
+url: http://www.gutenberg.org/ebooks/71788
